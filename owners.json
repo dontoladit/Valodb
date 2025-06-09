@@ -1,1 +1,3 @@
-["./config.js"]
+{
+  "owners": ["OWNER_ID"]
+}
