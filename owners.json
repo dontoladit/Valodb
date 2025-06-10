@@ -1,1 +1,2 @@
-["5997713171"]
+git clone https://<token>@github.com/<username>/<repo>.git
+cd <repo>
